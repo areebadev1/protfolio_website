@@ -265,4 +265,22 @@
             line-height: 26px;
         }
     }
+
+    .div_5_2 {
+        border: 2px solid rgb(0, 204, 255);
+        display: flex;
+
+        .div_5_2_1 {
+            border: 2px solid purple;
+            display: flex;
+
+            .image {
+                border: 2px solid yellow;
+            }
+
+            .divs{
+                border: 2px solid red;
+            }
+        }
+    }
 }
