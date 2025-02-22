@@ -278,8 +278,21 @@
                 border: 2px solid yellow;
             }
 
-            .divs{
+            .divs {
                 border: 2px solid red;
+
+                .head_3 {
+                    border: 2px solid rgb(0, 255, 42);
+                    color: rgb(255, 255, 255);
+                    font-family: "Zilla Slab", serif;
+                    font-weight: 600;
+                    font-size: 24px;
+                    line-height: 29px;
+                }
+
+                .ptag {
+                    border: 2px solid blue;
+                }
             }
         }
     }
